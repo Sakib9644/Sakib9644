@@ -107,12 +107,12 @@ open_to    : Collaborations & Freelance Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=sakib9644&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=c8dff0&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=sakib9644&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117&sideLabels=c8dff0&dates=4a6a8a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakib9644&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=c8dff0&bg_color=0d1117&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=sakib9644&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117&sideLabels=c8dff0&dates=4a6a8a" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs?username=sakib9644&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8dff0&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib9644&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8dff0&bg_color=0d1117&cache_seconds=1800" />
 
 </div>
 
@@ -122,7 +122,7 @@ open_to    : Collaborations & Freelance Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sakib9644&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=sakib9644&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -132,7 +132,7 @@ open_to    : Collaborations & Freelance Projects
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib9644&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib9644&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&area_color=00d4ff" />
 
 </div>
 

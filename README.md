@@ -12,7 +12,7 @@
 <br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Laravel+%7C+PHP+%7C+MySQL+%7C+Vue+%7C+React;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Laravel+%7C+PHP+%7C+MySQL+%7C+Vue.js;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 <br/>
 
@@ -47,7 +47,6 @@ open_to    : Collaborations & Freelance Projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sadman-sakib-661641154)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/s.sakib.47)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadman0000@gmail.com)
-[![Website](https://img.shields.io/badge/Hydra-00D4FF?style=for-the-badge&logo=safari&logoColor=black)](https://xn--hydra-fsa.com)
 
 </div>
 
@@ -94,7 +93,17 @@ open_to    : Collaborations & Freelance Projects
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+---
 
 <div align="center">
 

@@ -1,10 +1,18 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Md.%20Sadman%20Sakib&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Laravel%20Developer&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=180&section=header&text=Md.%20Sadman%20Sakib&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+
+### 👨‍💻 Full Stack Laravel Developer &nbsp;·&nbsp; PHP &nbsp;·&nbsp; MySQL
+
+<br/>
+
+[![🔭 Currently Working On — Hydra](https://img.shields.io/badge/🔭_Currently_Working_On-Hydra-00d4ff?style=for-the-badge)](https://xn--hydra-fsa.com/)
+
+<br/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Full+Stack+Laravel+Developer;Building+Hydra+%7C+xn--hydra-fsa.com;Laravel+%7C+PHP+%7C+MySQL+%7C+Vue+%7C+React;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&height=45&lines=Laravel+%7C+PHP+%7C+MySQL+%7C+Vue+%7C+React;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 <br/>
 

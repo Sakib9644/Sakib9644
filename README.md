@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=Md.%20Sadman%20Sakib&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Laravel%20Developer&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+Samadhan+%7C+samadhan24.com;💡+Laravel+%7C+PHP+%7C+MySQL+%7C+Vue+%7C+React;🌱+Always+learning%2C+always+growing" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+Hydra+%7C+xn--hydra-fsa.com;Laravel+%7C+PHP+%7C+MySQL+%7C+Vue+%7C+React;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 name       : Md. Sadman Sakib
 role       : Full Stack Laravel Developer
 location   : Bangladesh 🇧🇩
-currently  : Building Samadhan (https://samadhan24.com)
+currently  : Building Hydra (https://xn--hydra-fsa.com)
 learning   : Python · Vue.js · React
 ask_me     : Laravel, PHP, REST APIs, MySQL
 email      : saadman0000@gmail.com
@@ -39,7 +39,7 @@ open_to    : Collaborations & Freelance Projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-sadman-sakib-661641154)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/s.sakib.47)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadman0000@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Samadhan-00D4FF?style=for-the-badge&logo=safari&logoColor=black)](https://samadhan24.com)
+[![Website](https://img.shields.io/badge/Hydra-00D4FF?style=for-the-badge&logo=safari&logoColor=black)](https://xn--hydra-fsa.com)
 
 </div>
 

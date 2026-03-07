@@ -108,23 +108,15 @@ open_to    : Collaborations & Freelance Projects
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakib9644&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=c8dff0&bg_color=0d1117&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=sakib9644&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&background=0d1117&sideLabels=c8dff0&dates=4a6a8a" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib9644&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c8dff0&bg_color=0d1117&cache_seconds=1800" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakib9644&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
 
 ---
 

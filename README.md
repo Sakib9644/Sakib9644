@@ -103,23 +103,6 @@ open_to    : Collaborations & Freelance Projects
 
 </div>
 
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakib9644&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=ff6b35&text_color=c8dff0&bg_color=0d1117&count_private=true&cache_seconds=1800" />
-
-<br/><br/>
-
-
-</div>
-
----
-
-
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
